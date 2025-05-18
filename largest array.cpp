@@ -7,7 +7,7 @@ int findLargest(int arr[], int n) {
         if (arr[i] > largest) {
             largest = arr[i];
         }
-    }
+    }   
     return largest;
 }
 
